@@ -1,2 +1,2 @@
 #!/bin/bash
-alias checkuser='if who | grep -q [username] then echo "Hello [username]" fi'
+echo "hello myuser"
