@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "the sum of $water and $stir is: $bestchol"
+echo "$((water + stir))" > bestchol
