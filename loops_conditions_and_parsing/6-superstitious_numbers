@@ -14,7 +14,7 @@ while [ $count -le 20 ]; do
             echo "17 and then bad luck from Italy"
             ;;
         *)
-            echo $count
+            echo "Best School"
             ;;
     esac
     count=$((count + 1))
